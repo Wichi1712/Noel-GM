@@ -30,7 +30,7 @@
 velocidad = 3;
 moveH = 0;
 moveV = 0;
-salto = 15;
+salto = 10;
 gravedad = 0.8;
 
 saltando = false;
